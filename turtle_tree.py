@@ -4,7 +4,7 @@ shape("turtle")
 speed('fastest')
 bgcolor("black")
 right(-90)
-angle = 45
+angle = 60
 def branch(size, level):
     if level > 0:
         colormode(255)
